@@ -3,7 +3,7 @@ package input
 import (
 	"bytes"
 	"io"
-	"matloob.io/regexp/syntax"
+	"github.com/xiezhenye/regexp/syntax"
 	"strings"
 	"unicode/utf8"
 )

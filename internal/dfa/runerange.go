@@ -7,8 +7,8 @@ package dfa
 import (
 	"sort"
 	"unicode"
-	"matloob.io/regexp/internal/input"
-	"matloob.io/regexp/syntax"
+	"github.com/xiezhenye/regexp/internal/input"
+	"github.com/xiezhenye/regexp/syntax"
 )
 
 type rangeMap struct {

@@ -15,8 +15,8 @@
 package regexp
 
 import (
-	"matloob.io/regexp/internal/input"
-	"matloob.io/regexp/syntax"
+	"github.com/xiezhenye/regexp/internal/input"
+	"github.com/xiezhenye/regexp/syntax"
 )
 
 // A job is an entry on the backtracker's job stack. It holds

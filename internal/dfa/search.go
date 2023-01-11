@@ -8,8 +8,8 @@ import (
 	"sync"
 	"errors"
 	"math"
-	"matloob.io/regexp/internal/input"
-	"matloob.io/regexp/syntax"
+	"github.com/xiezhenye/regexp/internal/input"
+	"github.com/xiezhenye/regexp/syntax"
 )
 
 type Searcher struct {

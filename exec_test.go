@@ -11,11 +11,12 @@ import (
 	"io"
 	"os"
 	"path/filepath"
-	"matloob.io/regexp/syntax"
 	"strconv"
 	"strings"
 	"testing"
 	"unicode/utf8"
+
+	"github.com/xiezhenye/regexp/syntax"
 )
 
 // TestRE2 tests this package's regexp API against test cases

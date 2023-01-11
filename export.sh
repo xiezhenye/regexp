@@ -1,6 +1,6 @@
 #!/bin/sh
 
-FROM="$HOME/src/matloob.io/regexp"
+FROM="$HOME/src/github.com/xiezhenye/regexp"
 TO="$HOME/go/src/regexp"
 
 cp $FROM/*.go $TO/

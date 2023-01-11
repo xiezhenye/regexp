@@ -67,8 +67,8 @@ package regexp
 import (
 	"bytes"
 	"io"
-	"matloob.io/regexp/syntax"
-	"matloob.io/regexp/internal/dfa"
+	"github.com/xiezhenye/regexp/syntax"
+	"github.com/xiezhenye/regexp/internal/dfa"
 	"strconv"
 	"strings"
 	"sync"

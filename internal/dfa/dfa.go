@@ -11,8 +11,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"matloob.io/regexp/internal/input"
-	"matloob.io/regexp/syntax"
+	"github.com/xiezhenye/regexp/internal/input"
+	"github.com/xiezhenye/regexp/syntax"
 )
 
 // TODO(matloob): lowercase these before submitting
